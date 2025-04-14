@@ -1,0 +1,4 @@
+/node_modules
+/dist
+results.csv # Optional: ignore the output file
+.env # Optional: if you add environment variables 
